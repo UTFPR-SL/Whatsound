@@ -15,9 +15,8 @@ O usuário também poderá acessar um extenso dicionário de objetos, para descr
 
 Para executar o aplicativo verifique se os seguintes programas estão instalados na sua máquina:
 
-  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="Version"></a> 
+  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="Version"></a> [![node.js](https://img.shields.io/badge/node.js-v16.x-<COLOR>.svg)](https://shields.io/)
 
-[![node.js](./src/node.svg)](https://badges.aleen42.com/src/node.svg)
 
 
 ### Como instalar?
@@ -26,7 +25,7 @@ Para instalar o projeto em sua máquina é necessário apenas executar os seguin
 
 
 ``` bash
-Git clone URL
+Git clone https://github.com/UTFPR-SL/Whatsound
 cd whatsound
 npm install
 npm start
@@ -51,7 +50,7 @@ Para contribuir ao projeto basta entrar no nosso [servidor do Discord](https://d
 * **Pedro Henrique Bortolucci Klayn** - [Github](https://github.com/Pedrobk222)
 * **Ryan Lazaretti Ramos** - [Github](https://github.com/RyanRamos01)
 
-Veja também a lista de [contribuidores](https://github.com/your/project/contributors) que participaram neste projeto.
+Veja também a lista de [contribuidores](https://github.com/UTFPR-SL/Whatsound/contributors) que participaram neste projeto.
 
 ## Licença
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
